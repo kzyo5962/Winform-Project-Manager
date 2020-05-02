@@ -1,0 +1,9 @@
+C:\Users\ASUS-PC\Desktop\CSharp\Winform\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ASUS-PC\Desktop\CSharp\Winform\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\ASUS-PC\Desktop\CSharp\Winform\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\ASUS-PC\Desktop\CSharp\Winform\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\ASUS-PC\Desktop\CSharp\Winform\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\ASUS-PC\Desktop\CSharp\Winform\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\0306181232_TruongQuangHuy.csprojResolveAssemblyReference.cache
+C:\Users\ASUS-PC\Desktop\CSharp\Winform\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\ASUS-PC\Desktop\CSharp\Winform\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\ASUS-PC\Desktop\CSharp\Winform\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\0306181232_TruongQuangHuy.csproj.GenerateResource.Cache
